@@ -1,0 +1,7 @@
+My Favorit:
+	Movie: "Pulp Fiction";
+	Series: "Silicon Valley";
+	Dish: Carpaccio;
+	Season: Summer;
+	Country to travel: Japan.
+
