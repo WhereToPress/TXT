@@ -1,0 +1,5 @@
+person
+	name Maksim;
+	age 32;
+	pets null;
+	salary $99999999999999999999999999999999999999.
