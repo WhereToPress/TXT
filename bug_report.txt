@@ -1,1 +1,7 @@
-
+Bug:
+ID: 1;
+Title: wrong result of the calculator;
+Steps: Open app. Entering: 1+1;
+Actual result: 4;
+Expected result: 2;
+Bug severity: critical.
